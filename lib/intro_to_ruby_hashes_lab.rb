@@ -1,13 +1,15 @@
 def new_hash
-  # return an empty hash
+  my_hash = []
 end
 
 def my_hash
   # return a valid hash with any key/value pair of your choice
+  my_hash = [:best => "me"]
 end
 
 def pioneer
   # return a hash with a key of :name and a corresponding value of 'Grace Hopper'
+  my_hash = [:name => "Grace Hopper"]
 end
 
 
